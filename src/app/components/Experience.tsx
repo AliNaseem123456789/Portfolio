@@ -42,7 +42,7 @@ const experiences = [
   id: 5,
   title: "AI & Web Application Developer",
   company: "3S Smart Solutions Star Inc.",
-  duration: "Oct 2025 – Present",
+  duration: "2024 –May 2025   ",
   description:
     "Working remotely as an AI and Web Application Developer, contributing to the design, development, and deployment of intelligent systems and modern web applications. Collaborating with cross-functional teams to build scalable AI-driven features, integrate machine learning models into web platforms, and deliver reliable, production-ready solutions.",
   skills: [
