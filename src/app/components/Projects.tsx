@@ -6,7 +6,7 @@ import restaurant from "../../assets/restuarant.jpg";
 import Ecommerce from "../../assets/Ecommerce.jpg";
 import socialmedia from "../../assets/socilamedia.jpg";
 import wholesale_smoke from "../../assets/smoke-wholesale.PNG";
-
+import idonethis from "../../asssets/idonethis.PNG"
 // Type definitions
 interface ProjectLinks {
   frontend?: string;
@@ -100,7 +100,7 @@ const projects: Project[] = [
     id: 5,
     title: "Productivity Website",
     description: "Full-stack 'I Done This' style productivity platform with daily task journaling (Done/Doing/Delayed), interactive monthly calendar with task indicators, and AI-powered reports using Groq LLM (llama-3.1-8b-instant) for weekly summaries and actionable recommendations. Features scheduled email/SMS reminders, searchable history with filters and CSV/JSON export, and real-time analytics charts (Recharts) for completion rates and productivity streaks.",
-    image: Ecommerce,
+    image: idonethis,
     tags: ["React", "Node.js", "JWT", "Groq LLM", "Recharts", "REST APIs", "AI"],
     links: {
       frontend: "https://i-done-this.vercel.app/",
